@@ -354,3 +354,4 @@ To the extent possible under law, the author has waived all copyrights and relat
 This copyright belongs to Venu.Inc. For rebasing this to feature branch. More changes from rebasingbranch for rebasing.
 Please fork this repository and give a pull request for review.
 Editing after stashing
+Adding 1.2 release tag
